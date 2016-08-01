@@ -28,10 +28,10 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha4'
 
     // Joda Time
-    compile 'net.danlew:android.joda:2.9.3.1'
+    compile 'net.danlew:android.joda:2.9.4.1'
 
     testCompile 'junit:junit:4.12'
 
     // Joda Time for unit testing (https://github.com/dlew/joda-time-android/issues/17)
-    testCompile "joda-time:joda-time:2.9.3"
+    testCompile "joda-time:joda-time:2.9.4"
 }
